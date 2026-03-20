@@ -1,2 +1,3 @@
-# open-game-engine-4isg
-A game engine project for modern development workflows
+# Open Game Engine 4Isg
+
+A game engine project for modern development workflows.
